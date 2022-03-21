@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmation</string>
+    <string name="affirmation1">Lakukan Apa yang Membuatmu Bahagia</string>
+    <string name="affirmation2">Jangan Pernah Menyerah Apapun yang Terjadi</string>
+    <string name="affirmation3">Syukuri dan Hargai Hal-Hal yang Anda Miliki</string>
+    <string name="affirmation4">Nikmati dan Hargai Perubahan dalam Kehidupan</string>
+    <string name="affirmation5">Keraguan adalah Musuh Terbesar dalam Meraih Mimpi</string>
+    <string name="affirmation6">Memaafkan Membuat Anda Menjadi Pribadi yang Semakin Kuat</string>
+    <string name="affirmation7">Selalu Lakukan Perubahan Kecil ke Arah yang Lebih Baik </string>
+    <string name="affirmation8">Dengarkan dan Selalu Beri Perhatian Penuh dalam Hidup</string>
+    <string name="affirmation9">Selalu Optimis</string>
+    <string name="affirmation10">Jangan Bertahan di Zona Nyaman</string>
+</resources>
